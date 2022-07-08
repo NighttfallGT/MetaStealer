@@ -1,7 +1,6 @@
 # MetaStealer
-Meta Stealer (redline stealer. Can steal CIS people data)
-
 Meta Stealer (updated redline version) is a malware available on underground forums for sale. It steals:
+
 - Browser data (Cookie, passwords, autofills and credit cards)
 - Files and images from desktop (.txt, .md, .doc, .docx, .jpg, .png, .jpeg
 - Discord tokens
